@@ -8,8 +8,7 @@ Questions Answered:
 5. Top 10 states with highest sales
 6. Highest selling category
 7. Relation between age and gender based on orders
-PROCESS:
-1. DATA -
+
 
 
 
