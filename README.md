@@ -8,7 +8,8 @@ Questions Answered:
 5. Top 10 states with highest sales
 6. Highest selling category
 7. Relation between age and gender based on orders
-
+IN THE ABOVE FILES
+Vishesh Store Data Analysis.xlsx contains the dashboard of analysis.
 
 
 
